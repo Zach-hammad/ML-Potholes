@@ -2,3 +2,4 @@ ultralytics
 numpy==1.26.0
 pandas
 opencv-python
+hailo_model_zoo-2.15.0-py3-none-any.whl
